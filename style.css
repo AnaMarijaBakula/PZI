@@ -1,0 +1,27 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #fff;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+p {
+    font-size: 1.2em;
+    margin: 10px 0 20px;
+}
+button {
+    padding: 10px 20px;
+    font-size: 1em;
+    color: #6a11cb;
+    background-color: #fff;
+}
